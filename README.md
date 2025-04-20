@@ -1,4 +1,31 @@
-Briefly describe the artifact. What is it? When was it created?
-Justify the inclusion of the artifact in your ePortfolio. Why did you select this item? What specific components of the artifact showcase your skills and abilities in algorithms and data structure? How was the artifact improved?
-Did you meet the course outcomes you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
-Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
+My name is Morgan Marsh, and I am a Computer Science graduate from Southern New Hampshire University. Throughout my academic journey, I developed strong skills in software development, database management, cybersecurity, and full-stack application design. I am passionate about building practical, user-centered solutions that are scalable, secure, and efficient. Whether working on mobile apps, web-based dashboards, or secure systems, I bring a detail-oriented and adaptable approach to every project. I am excited to continue applying my skills to real-world challenges and to grow within the dynamic field of computer science.
+  
+Throughout my Computer Science program at Southern New Hampshire University (SNHU), I developed a strong foundation across many technical and professional competencies. My experiences throughout the coursework, combined with personal practice outside the classroom, have shaped me into a well-rounded and adaptable computer scientist. Here is an overview of my core skills:
+
+Collaborating in a Team Environment
+Team collaboration played a crucial role in many of my courses, particularly in CS320 (Software Test Automation) and CS370 (Current Trends and Projects in Computer Science). I participated in peer review sessions, collaborated on project planning, and engaged in shared testing efforts. Working within these academic teams helped me develop professional skills like setting clear expectations, adhering to shared standards, communicating progress effectively, and offering constructive feedback. These experiences taught me the value of clear communication, accountability, and adaptability in a team setting.
+
+Communicating with Stakeholders
+Throughout courses like CS405 (Secure Coding) and CS410 (Software Reverse Engineering), I practiced translating technical information into accessible language for diverse audiences. Whether through presentations, written reports, or structured project proposals, I focused on communicating complex technical solutions clearly to both technical and non-technical stakeholders. These skills are critical for bridging gaps between development teams, management, and end users in professional environments.
+
+Data Structures and Algorithms
+In CS260 (Data Structures and Algorithms), I studied and applied essential concepts like linked lists, trees, graphs, recursion, and algorithmic efficiency. I gained hands-on experience selecting appropriate data structures for different types of problems, improving performance, and ensuring optimized solutions. In my personal time, I further strengthened these skills by completing coding challenges and practicing algorithm design beyond the classroom.
+
+Software Engineering and Database
+Software development principles were a major focus of my program, particularly in CS305 (Software Security), CS340 (Client/Server Development), CS360 (Mobile Architectures and Programming), and CS330 (Computer Graphic Design and Visualization). I designed modular, maintainable software solutions and implemented databases that followed normalization standards and supported efficient data retrieval. Through projects like scene construction and object modeling, I reinforced important engineering skills such as precision, organization, and layered design. I learned the importance of clear architecture, version control practices, scalable system design, and integration of front-end and back-end systems. I also built SQL databases and developed queries for real-world scenarios, gaining experience in data modeling and relational database management.
+
+Security
+Security best practices were a consistent thread throughout my coursework, especially in CS405 (Secure Coding) and CS465 (Full Stack Development). I studied secure coding techniques, encryption methods, authentication protocols, and vulnerability assessment processes. I developed a strong awareness of the importance of integrating security into every phase of the development cycle — from design to deployment — rather than treating it as an afterthought. This training ensures I approach projects with a mindset focused on minimizing risk and protecting sensitive data.
+
+The technical artifacts included in this portfolio represent the breadth of my computer science education and demonstrate my ability to apply skills across multiple domains. Together, they highlight my strengths in mobile development, full-stack application development, and cybersecurity principles.
+
+Android Event Planner App
+This project showcases my skills in mobile application development using Android Studio and Kotlin. I implemented an event management system following the Model-View-ViewModel (MVVM) architecture, along with repository patterns and database integration. This project reflects my ability to build user-friendly, scalable applications with clean, maintainable code.
+
+Granzioso Salvare Database
+This project involved developing a web-based database application for Granzioso Salvare, a company focused on training shelter dogs for various types of rescue work. Built using Jupyter Notebook and Python, the project features a three-layer architecture: a data layer using MongoDB to store and manage adoption and rescue suitability data, a middleware layer using Dash, Plotly, and Leaflet for visualization and interaction, and a front-end dashboard for user access. The application enables users to filter dogs based on breed, age, and rescue specialization (e.g., water, mountain, disaster rescue) and provides a pie chart and geolocation map to visualize available animals. The project demonstrates my skills in full-stack development, database integration, web-based data visualization, and system modularity, ensuring easy handoff and scalability for future developers.
+
+Security Policy Presentation
+This presentation illustrates my understanding of secure software development practices and my ability to communicate technical security concepts to stakeholders. It covers topics such as encryption strategies, defense-in-depth frameworks, triple-A security policies, and DevSecOps practices, emphasizing my commitment to building secure and resilient software systems.
+
+Collectively, these artifacts demonstrate my readiness to enter the professional field of computer science. They highlight my technical competencies, my ability to work across different types of projects, and my commitment to industry best practices in development, security, and systems integration.
